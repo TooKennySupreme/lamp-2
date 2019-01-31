@@ -26,6 +26,7 @@ less \
 openssh-server \
 openssh-clients \
 rsync \
+which \
 && yum clean all
 
 EXPOSE 80
