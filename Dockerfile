@@ -48,6 +48,9 @@ openssh-server \
 openssh-clients \
 rsync \
 which \
+zip \
+unzip \
+git \
 && yum clean all
 
 EXPOSE 80
